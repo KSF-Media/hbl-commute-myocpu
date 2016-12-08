@@ -1,0 +1,9 @@
+{
+    "path" : "~/r-scripts/myocpu",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
